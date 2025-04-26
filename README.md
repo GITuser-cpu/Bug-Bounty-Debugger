@@ -1,3 +1,16 @@
+# Bug Bounty Debugger. 
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: NARENDRA VIJAY BORHADE
+
+*INTERN ID*: CT4MNLF
+
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+
+*DURATION*: 16 weeks
+
+*MENTOR*: NEELA SANTOSH
 # vary
 
 [![NPM Version][npm-image]][npm-url]
